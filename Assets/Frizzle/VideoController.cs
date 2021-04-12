@@ -53,7 +53,6 @@ public class VideoController : MonoBehaviour {
     // check every 10m if there's no upcoming video
     if (_noUpcomingVideo) {
       _timer += Time.deltaTime;
-      Debug.Log(_timer);
       if (_timer > 10 * 60) {
         StartCoroutine(GetActiveVideo());
         _noUpcomingVideo = false;

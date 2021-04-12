@@ -11,7 +11,6 @@ public class VideoController : MonoBehaviour {
   private const string getURL = "https://api-6311.herokuapp.com/lectures/active";
   private VideoPlayer video;
   private ScheduleController schedule;
-  private GameObject screen;
   private bool _needNewUrl = false;
   private bool _noUpcomingVideo = false;
   private float _timer = 0f;
@@ -42,7 +41,6 @@ public class VideoController : MonoBehaviour {
         video.url = _url;
         video.Play();
         _end = false;
-        //gameObject.transform.localScale = new Vector3(_ratio * 4.5f, 4.5f, 0.1f);
       }
     }
 

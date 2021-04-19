@@ -1,0 +1,156 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: 51DXPX78yl6TYU337iMMeYuMTBw1/Mp7BK5XC7SbTqM=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA-256-Digest: UU9m5F/6YK2e7BtPqdYbbhrKBSZDnVvFAVfHO4BNosU=
+
+Name: assets/bin/Data/Managed/Metadata/global-metadata.dat
+SHA-256-Digest: Yi4iFqWKFCTeljYSYkQ8rYMAxK7Rwb8S9rXzRHMgRFc=
+
+Name: assets/bin/Data/Managed/Resources/mscorlib.dll-resources.dat
+SHA-256-Digest: YDrQxP+U0yOIvIJbkgQiTKYFz7XPWoekRyh24ezbP20=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/Browsers/Compat.browser
+SHA-256-Digest: HnA+uaYz8PM9oUFSYLgIXTC5kO/A6JmNDWIXVlbvHOw=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/DefaultWsdlHelpGenerator.as
+ px
+SHA-256-Digest: SwTuZwC2KxDCvcXz+v3XhGLvbalhTT1MS6YhtZdnpvQ=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/machine.config
+SHA-256-Digest: nLEIselfw4QGeWys7kWWGteMHsHeOu25kERl+1zFszI=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/settings.map
+SHA-256-Digest: D5U5U7iuANW8hOm8uI/ioGHIXr8KyH16mJlanAsEtQA=
+
+Name: assets/bin/Data/Managed/etc/mono/2.0/web.config
+SHA-256-Digest: xNl984oeF7mlwQYp71EMLZNgiyunuxNfzC19McmPSx4=
+
+Name: assets/bin/Data/Managed/etc/mono/4.0/Browsers/Compat.browser
+SHA-256-Digest: 9AMljB9Z10+EsugXkyUJ48m24heTSE0ancuPns0tCV4=
+
+Name: assets/bin/Data/Managed/etc/mono/4.0/DefaultWsdlHelpGenerator.as
+ px
+SHA-256-Digest: 8lhUSEOSx+YuKEjAaunW4dc/xiCOWgHXS0swjJg+e1A=
+
+Name: assets/bin/Data/Managed/etc/mono/4.0/machine.config
+SHA-256-Digest: 3hOYcP9ALiJm22+5KA/9Z1bXOLdoViFdblz0VsJmgh8=
+
+Name: assets/bin/Data/Managed/etc/mono/4.0/settings.map
+SHA-256-Digest: CZxWQABhjF3pFpvUdEJwkenML5ATSONkf/K/MfHdb98=
+
+Name: assets/bin/Data/Managed/etc/mono/4.0/web.config
+SHA-256-Digest: y8oNVL+A8Vgeh+dZBUxaPmIwwM93PdYB2IoTGHHEyHI=
+
+Name: assets/bin/Data/Managed/etc/mono/4.5/Browsers/Compat.browser
+SHA-256-Digest: LG7o8fTckJz8LUffkcgvU1imgvAcXd+QNQbtRIn0s8w=
+
+Name: assets/bin/Data/Managed/etc/mono/4.5/DefaultWsdlHelpGenerator.as
+ px
+SHA-256-Digest: DEAbj197xC5b1F3dUXmQdU+eBXoHsjXkOAbJGl/awSs=
+
+Name: assets/bin/Data/Managed/etc/mono/4.5/machine.config
+SHA-256-Digest: XVJY73gneFAP0wAauuDOA1dc+dWpdUpieg74qRGDQmg=
+
+Name: assets/bin/Data/Managed/etc/mono/4.5/settings.map
+SHA-256-Digest: rw+rC2Yc4U+XMRTQ4+NKbG1j4mpXYQfk8Ya7/OoTDcw=
+
+Name: assets/bin/Data/Managed/etc/mono/4.5/web.config
+SHA-256-Digest: jYnHCMzC7HB1y7ABI4dgGE3yk8I9X/X30F0i+5La7o4=
+
+Name: assets/bin/Data/Managed/etc/mono/browscap.ini
+SHA-256-Digest: EJB/9zw6PmsHFhcqpRqG6q2GGcjY05aF11f2grNy6+o=
+
+Name: assets/bin/Data/Managed/etc/mono/config
+SHA-256-Digest: CJtJNbKSqG8fAKfCZ52SMUWStJVBqOLJS0bxicj7Luc=
+
+Name: assets/bin/Data/Managed/etc/mono/mconfig/config.xml
+SHA-256-Digest: zWmc0rgeY18b/+MekiBoOWMfTIFWN6m7W73rD1mT15g=
+
+Name: assets/bin/Data/UnitySubsystems/OculusXRPlugin/UnitySubsystemsMa
+ nifest.json
+SHA-256-Digest: dv9vzEjDFAqx0R+hNyW49k1c9WBp5BCxfVaMvuVAEfo=
+
+Name: assets/bin/Data/boot.config
+SHA-256-Digest: Wi2CKGCR35/zVv9vFPzW7zOz9SfAELP62ZsA7tsoKU4=
+
+Name: assets/bin/Data/data.unity3d
+SHA-256-Digest: 9RMY+YkbFapNSiPcdRfzS5XThFUJeLc02LE53F6zkio=
+
+Name: assets/bin/Data/resources.resource
+SHA-256-Digest: 2Pvp65PtVmaIh6QzVJEIyU6uKr6htKSmWHjcV6JJnRo=
+
+Name: assets/bin/Data/sharedassets0.resource
+SHA-256-Digest: Wkl5s9KmedRJ2iWvDJvuqJx6p81dgHfrBAzjMx/kdB8=
+
+Name: assets/bin/Data/unity default resources
+SHA-256-Digest: Ak90H82dvzs0QK0VcgAVAzOBb7yGNa3Rv9eviDwHfh0=
+
+Name: classes.dex
+SHA-256-Digest: h2uZrSHUQmzn3LjFC2nrXwUhjYiutwP4d025jQbAAfk=
+
+Name: lib/armeabi-v7a/libAudioPluginOculusSpatializer.so
+SHA-256-Digest: x544AL+yzHSZnLr+movvQegzt9x8/JPHBg14gYuW7tc=
+
+Name: lib/armeabi-v7a/libOVRMrcLib.so
+SHA-256-Digest: 1yB5SR6ewxumaoJDIVdvYAmo1r/isAcNjDePQh1sOmw=
+
+Name: lib/armeabi-v7a/libOVRPlugin.so
+SHA-256-Digest: xomyXuebzzWkG8qiZC5F7sdUAODQP9s88Fl+pmZiyFQ=
+
+Name: lib/armeabi-v7a/libOculusXRPlugin.so
+SHA-256-Digest: 7BfOzKb32csjjdMBmkfblc6ZzJNSgkhg2hwVxJntcho=
+
+Name: lib/armeabi-v7a/libil2cpp.so
+SHA-256-Digest: vEgzGRlFb0gh5FiZfrevDX/7vdXKiY/eAXdLZkXOxcM=
+
+Name: lib/armeabi-v7a/libmain.so
+SHA-256-Digest: L5+ACni1cEHZNA31+NMGEnjsNcto1tyFkeHQ9DSu52s=
+
+Name: lib/armeabi-v7a/libunity.so
+SHA-256-Digest: fIPf8d0wtUeHWXM0ifGmDl8HhUJYMfuiQ7NZjn+aZwQ=
+
+Name: lib/armeabi-v7a/libvrapi.so
+SHA-256-Digest: v/2osWJ/9d42CPqojO/iFnxq3duoK+vBQTvW52TEpTo=
+
+Name: res/mipmap-hdpi-v4/app_icon.png
+SHA-256-Digest: Xg9whPXPvhbDO0MKAZ0WnTxBhNtbY7jqMHXTyKRJUcA=
+
+Name: res/mipmap-hdpi-v4/app_icon_round.png
+SHA-256-Digest: PFlxB5NuSz7glwd02gjA1bY3BeoW0YK992rpUmgTwpk=
+
+Name: res/mipmap-ldpi-v4/app_icon.png
+SHA-256-Digest: 6L9gQqrkPX23DdF4w23XqFynO/laBQn4hYgFgd1WCjQ=
+
+Name: res/mipmap-ldpi-v4/app_icon_round.png
+SHA-256-Digest: z87kVwDJqQfEZ5MaSvmmCQRsKyjZK0TZVv+Ctkdd158=
+
+Name: res/mipmap-mdpi-v4/app_icon.png
+SHA-256-Digest: RIVZggpyjxWfpplhnzAxrnigXDkTq98lk4++WjD2dh4=
+
+Name: res/mipmap-mdpi-v4/app_icon_round.png
+SHA-256-Digest: kpfP4QFjY2rFYsHkH6mRylMXsiNVO2mkl98I/dS7U9c=
+
+Name: res/mipmap-xhdpi-v4/app_icon.png
+SHA-256-Digest: PSJc9G9ht/Bu9YXnsplWieoXmNTPYkkOaQDTcyQfndk=
+
+Name: res/mipmap-xhdpi-v4/app_icon_round.png
+SHA-256-Digest: NpEE5/3mQQKa4vwWc44Kn1YLEr837YnDLlT3P0dWajc=
+
+Name: res/mipmap-xxhdpi-v4/app_icon.png
+SHA-256-Digest: FmKMGx5l6kIYmZmhZNKqB0brYIRlyBvjAJm5q8W5oGE=
+
+Name: res/mipmap-xxhdpi-v4/app_icon_round.png
+SHA-256-Digest: wcJ/IkV0Uf9WwlkkNC60RHFdwmO2BlXZTn7w8U3j+vI=
+
+Name: res/mipmap-xxxhdpi-v4/app_icon.png
+SHA-256-Digest: MiotuHLJbvej86hdBG6dZymBypjyBHVm6qZ+Ujimv58=
+
+Name: res/mipmap-xxxhdpi-v4/app_icon_round.png
+SHA-256-Digest: TxlMTsGzIu8J0iQkX0Yh71m5nXdbNo9HwPWh8huRZuE=
+
+Name: resources.arsc
+SHA-256-Digest: WS/9HOUouizm2NsIFzBuKXYrBIB1xsqcnm8NPhfbP88=
+

@@ -4075,6 +4075,11 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 5637916041478769549, guid: 3c489e5553b2c49419e8fa206f15b48d,
         type: 3}
+    - target: {fileID: 5200182946107149772, guid: 6cc366a43293cf04799846ed924f2d58,
+        type: 3}
+      propertyPath: progressBar
+      value: 
+      objectReference: {fileID: 1936763067}
     - target: {fileID: 5200182946107149773, guid: 6cc366a43293cf04799846ed924f2d58,
         type: 3}
       propertyPath: m_RootOrder
@@ -11455,7 +11460,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 732528086}
   m_LocalRotation: {x: 0, y: 0.7071068, z: -0, w: -0.7071068}
-  m_LocalPosition: {x: 2.457, y: 1.801, z: 2.76}
+  m_LocalPosition: {x: 2.457, y: 1.471, z: 2.76}
   m_LocalScale: {x: 5, y: 5, z: 5}
   m_Children:
   - {fileID: 1444227205}

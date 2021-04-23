@@ -24,7 +24,7 @@ public class VideoController : MonoBehaviour {
 
   private bool _end = true;
 
-  [SerializeField] private TextMeshProUGUI t;
+  [SerializeField] private GameObject clock;
   [SerializeField] private CircularProgressBar progressBar;
 
   void Start() {
@@ -42,6 +42,8 @@ public class VideoController : MonoBehaviour {
       if (timeNow > _startsAt) {
         video.url = _url;
         video.Play();
+        clock.SetActive(false);
+
         _end = false;
       }
     }
@@ -108,6 +110,7 @@ public class VideoController : MonoBehaviour {
     _expiresAt = 0;
     _duration = 0;
     video.Stop();
+    clock.SetActive(true);
 
     StartCoroutine(GetActiveVideo());
     schedule.GetSchedule();

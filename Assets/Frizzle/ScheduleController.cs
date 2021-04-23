@@ -1,13 +1,9 @@
 ﻿using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
-using UnityEngine.Video;
 using UnityEngine.Networking;
 using SimpleJSON;
 using System;
 using TMPro;
-
 
 public class ScheduleController : MonoBehaviour {
   private const string getURL = "https://api-6311.herokuapp.com/lectures/pending";

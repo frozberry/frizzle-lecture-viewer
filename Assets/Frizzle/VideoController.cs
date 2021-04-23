@@ -16,6 +16,7 @@ public class VideoController : MonoBehaviour {
   private float _timer = 0f;
   private float _ratio;
   private long _manualTimestamp;
+  private float _duration;
 
   private string _url = "";
   private long _startsAt;
@@ -24,6 +25,7 @@ public class VideoController : MonoBehaviour {
   private bool _end = true;
 
   [SerializeField] private TextMeshProUGUI t;
+  [SerializeField] private CircularProgressBar progressBar;
 
   void Start() {
     video = GetComponent<VideoPlayer>();
@@ -64,6 +66,12 @@ public class VideoController : MonoBehaviour {
     if (video.isPlaying && Math.Abs(video.time - _manualTimestamp / 1000) > 10) {
       video.time = (int)_manualTimestamp / 1000;
     }
+
+    if (video.isPlaying) {
+      progressBar.SetProgress((float)video.time / (_duration / 1000));
+    } else {
+      progressBar.SetProgress(0f);
+    }
   }
 
   IEnumerator GetActiveVideo() {
@@ -83,6 +91,7 @@ public class VideoController : MonoBehaviour {
         _startsAt = (long)d["start"].AsDouble;
         _expiresAt = (long)d["expires"].AsDouble;
         _ratio = d["ratio"].AsFloat;
+        _duration = d["duration"].AsFloat;
 
         // if the url expires before the video is scheduled to start
         if (_expiresAt < _startsAt) {
@@ -97,6 +106,7 @@ public class VideoController : MonoBehaviour {
     _url = "";
     _startsAt = 0;
     _expiresAt = 0;
+    _duration = 0;
     video.Stop();
 
     StartCoroutine(GetActiveVideo());
